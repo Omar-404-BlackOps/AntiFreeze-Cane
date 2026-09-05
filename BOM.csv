@@ -3,3 +3,4 @@ Cane, Used as the main walking assist for Parkinson patients and will hold the m
 ESP32 Board, "The main system (MCU) ""The Brain Of the Game""", 2, 21.60, Makers Electronics, https://makerselectronics.com/product/esp32-s3-n16r8-development-board/
 MPU 6050 IMU Sensor, To sense the change in the patient's body vibrations and orientations detecting (FoG) or fall, 2, 3.92, Makers Electronics, https://makerselectronics.com/product/mpu-6050-imu-sensor-module-with-6-dof-gyroscope-accelerometer/
 IRLZ44 N-Channel MOSFET, Conrols the Laser state, 1, 0.78, Makers Electronics, https://makerselectronics.com/product/irlz44-n-channel-mosfet-transistor/
+Beam Laser Emitter, Provides a visual cue for the patient to overcome the FoG state, 1, 1.86, Makers Electronics, https://makerselectronics.com/product/laser-emitter-red-line-650nm-12vdc/
