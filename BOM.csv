@@ -8,3 +8,4 @@ Passive Buzzer, Provides sound cue for the patient to overcome the FoG state, 1,
 Rechargeable Battery 3.7V, Provides power for the system, 2, 3.34, MTM Electronics, https://mtm-electronic.com/products/4846
 MT3608 Step up Converter, Converts the battery voltage to the operating voltage of the laser (12VDC), 1, 0.50,  Makers Electronics ,https://makerselectronics.com/product/mt3608-dc-dc-step-up-2a/
 TP4056 TYPE-C, A battery charging board module to enable charging the system's battry, 2, 0.71, Makers Electronics, https://makerselectronics.com/product/tp4056-type-c-lithium-charging-module/
+1 Cell 18650 Battery Holder, Holds the battery in place (on the PCB), 2, 2.75, Amazon.eg ,https://www.amazon.eg/-/en/gp/product/B0D42C3775/ref=ewc_pr_img_4?smid=A22MDF17B7GE04&psc=1
