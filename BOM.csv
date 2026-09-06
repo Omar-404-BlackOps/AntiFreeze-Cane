@@ -5,4 +5,4 @@ MPU 6050 IMU Sensor, To sense the change in the patient's body vibrations and or
 IRLZ44 N-Channel MOSFET, Conrols the Laser state, 1, 0.78, Makers Electronics, https://makerselectronics.com/product/irlz44-n-channel-mosfet-transistor/
 Beam Laser Emitter, Provides a visual cue for the patient to overcome the FoG state, 1, 1.86, Makers Electronics, https://makerselectronics.com/product/laser-emitter-red-line-650nm-12vdc/
 Passive Buzzer, Provides sound cue for the patient to overcome the FoG state, 1, 0.16, Makers Electronics, https://makerselectronics.com/product/passive-buzzer-5v-42%cf%892048hz-12x8-5mm/
-Rechargeable Li-ion Battery 3.7V, Provides power for the system, 2, 6.48, Makers Electronics, https://makerselectronics.com/product/eve-cell-rechargeable-li-ion-battery/
+Rechargeable Battery 3.7V, Provides power for the system, 2, 3.34, MTM Electronics, https://mtm-electronic.com/products/4846
