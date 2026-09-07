@@ -3,6 +3,6 @@ AntiFreeze Cane is a Biomedical device designed to help Parkinson's patients byp
 
 <img width="715" height="510" alt="image" src="https://github.com/user-attachments/assets/220befde-fd24-456d-8ea3-3da4a1f9f715" />
 
-##Schematic: 
+## Schematic: 
 
 <img width="953" height="580" alt="image" src="https://github.com/user-attachments/assets/7349f16b-f743-49dd-982c-58241ef8afb9" />
